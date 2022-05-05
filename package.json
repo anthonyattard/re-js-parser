@@ -1,13 +1,13 @@
 {
-  "name": "js-sandbox",
+  "name": "re-js-parser",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "Parses addresses",
   "main": "parser.js",
   "scripts": {
     "test": "mocha parser.spec.js"
   },
-  "author": "",
+  "author": "Anthony Attard",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.6",
