@@ -21,5 +21,8 @@
     "url": "https://github.com/anthonyattard/re-js-parser/issues"
   },
   "homepage": "https://github.com/anthonyattard/re-js-parser#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "parser"
+  ]
 }
