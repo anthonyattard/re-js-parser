@@ -1,0 +1,16 @@
+{
+  "name": "js-sandbox",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "mocha parser.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
